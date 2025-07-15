@@ -32,7 +32,7 @@ Estudos e reflexões sobre temas que formam minha visão de mundo e valores:
 Este é o ponto de entrada do repositório. Aqui você pode escolher entre dois caminhos de estudo:
 
 - 👨‍💻 [`profissional/`](./profissional): programação, engenharia de software, dados, IA e tecnologia.
-- 🧠 [`perene/`](./perene): Catecismo, história da Igreja, filosofia e temas formativos.
+- 🧠 [`perene/`](./perene): Catecismo, história da Igreja e outros temas.
 
 Dentro de cada pasta, os conteúdos estão organizados em subpastas e arquivos `.md` por tema. Cada nota pode incluir:
 
