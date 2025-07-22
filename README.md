@@ -6,35 +6,65 @@ Este repositório é o meu espaço pessoal de estudos e anotações, reunindo do
 
 ## 👨‍💻 Estudo Profissional
 
-Notas e resumos sobre temas que fazem parte da minha trajetória como desenvolvedor backend (com um pé no front) e entusiasta de Ciência de Dados e Machine Learning:
+Notas e resumos sobre os pilares que sustentam minha jornada como **desenvolvedor backend Python** e **criador de produtos digitais**. Tudo o que estudo tem aplicação direta no que construo.
 
-- 💻 Programação: minhas linguagens favoritas **Python 🐍**, **Go 🐹**, **Java ☕** e **Node.js 🌐**
-- 🎨 Front-end: uso **React ⚛️** e **Vue 🟢** para quebrar um galho com interfaces
-- 🧱 Engenharia de Software: arquitetura, boas práticas, testes e design de sistemas
-- 🛠️ Git e DevOps: versionamento, branches, CI/CD e automações
-- ☁️ Infraestrutura de aplicações web: servidores, deploy, cloud
-- 📊 Ciência de Dados & 🤖 Machine Learning: minha área favorita de estudo
+### 🐍 Backend
+
+- Python (linguagem principal)
+- Django (aplicações completas)
+- Django REST Framework (APIs robustas)
+- Flask / FastAPI (uso pontual, se necessário)
+
+### ⚛️ Frontend
+
+- HTML, CSS, JavaScript e Bootstrap (interfaces rápidas e responsivas)
+- React (apenas quando necessário para SPAs ou projetos futuros)
+
+### 🧱 Engenharia de Software
+
+- Organização de projetos
+- Boas práticas
+- Testes automatizados
+- Arquitetura limpa e manutenção sustentável
+
+### 🔧 DevOps e Infraestrutura
+
+- Git (fluxo com branches, PRs e versionamento real)
+- CI/CD
+- Deploy com VPS, Nginx, Gunicorn, S3 e monitoramento
+
+### 📊 Dados & Machine Learning
+
+- Fundamentos matemáticos aplicados (álgebra linear, estatística, lógica)
+- Ciência de Dados (análise, visualização, automações inteligentes)
+- Machine Learning (estudo constante, aplicado sob demanda)
+
+### 🎯 Princípios que me guiam
+
+- Estudo com propósito e aplicação real
+- Profundidade na stack, amplitude sob demanda
+- Menos ansiedade, mais entrega
 
 ---
 
 ## 🧠 Estudo Perene
 
-Estudos e reflexões sobre temas que formam minha visão de mundo e valores:
+Estudos e reflexões que formam minha visão de mundo, fé e raciocínio:
 
 - Catecismo da Igreja Católica
-- História da Igreja
-- Leituras e anotações avulsas
+- Matemática aplicada à engenharia de software e machine learning
+- Lógica e raciocínio estruturado
 
 ---
 
 ## 📁 Organização
 
-Este é o ponto de entrada do repositório. Aqui você pode escolher entre dois caminhos de estudo:
+Este repositório está dividido em dois caminhos principais de estudo:
 
-- 👨‍💻 [`profissional/`](./profissional): programação, engenharia de software, dados, IA e tecnologia.
-- 🧠 [`perene/`](./perene): Catecismo, história da Igreja e outros temas.
+- 👨‍💻 [`profissional/`](./profissional): programação, engenharia de software, dados e tecnologia — tudo voltado à construção dos meus produtos.
+- 🧠 [`perene/`](./perene): formação intelectual e espiritual — fé, raciocínio e clareza interior.
 
-Dentro de cada pasta, os conteúdos estão organizados em subpastas e arquivos `.md` por tema. Cada nota pode incluir:
+Cada pasta contém anotações organizadas por tema, com arquivos .md ou notebooks (Jupyter ou Colab) simples e objetivos. Os conteúdos podem incluir:
 
 - 📝 Artigos e resumos práticos  
 - 👨‍💻 Trechos de código, comandos e exemplos  
