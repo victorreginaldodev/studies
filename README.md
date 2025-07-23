@@ -61,7 +61,7 @@ Estudos e reflexões que formam minha visão de mundo, fé e raciocínio:
 
 Este repositório está dividido em dois caminhos principais de estudo:
 
-- 👨‍💻 [`profissional/`](./profissional): programação, engenharia de software, dados e tecnologia — tudo voltado à construção dos meus produtos.
+- 👨‍💻 [`profissional/`](./estudos-profissionais/): programação, engenharia de software, dados e tecnologia — tudo voltado à construção dos meus produtos.
 - 🧠 [`perene/`](./estudos-pernes/): formação intelectual e espiritual — fé, raciocínio e clareza interior.
 
 Cada pasta contém anotações organizadas por tema, com arquivos .md ou notebooks (Jupyter ou Colab) simples e objetivos. Os conteúdos podem incluir:
